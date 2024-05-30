@@ -118,6 +118,7 @@ ionic serve
   grille spéciale, la reine ne peut pas accéder à cette section pour y pondre, ce qui permet de maintenir cette zone exclusivement dédiée à la production de miel. Cela facilite grandement la récolte du miel sans 
   perturber la colonie ou compromettre les œufs de la reine.  
 
+  <iframe src="https://skfb.ly/oVwTL" width="Largeur" height="Hauteur"></iframe>
 
   ⚠️ Chaque colonie d'abeilles étant unique, il est possible d'ajouter plusieurs cadres de récolte si la colonie se développe. Cette modularité permet d'adapter la ruche à la taille et aux besoins de chaque 
   colonie, assurant ainsi une gestion optimale et flexible de l'espace de production de miel.  

@@ -97,11 +97,41 @@ ionic serve
 </details>
 
 <details>
-  <summary>IOT</summary>
+  <summary>Capteurs</summary>
   This is the content that will be hidden initially.
 </details>
 
 <details>
   <summary>Réalisation Matérielle</summary>
-  This is the content that will be hidden initially.
+  Notre maquette de ruche est une réalisation combinant la découpe laser et l'impression 3D pour créer une structure fonctionnelle et esthétique. Cette ruche est composée de trois parties distinctes, chacune     
+  conçue pour optimiser la gestion et la protection de la colonie d'abeilles.
+
+  ###1. La Partie Vitale de la Ruche
+
+  La première section est la partie essentielle de la ruche, où se déroule la majorité de l'activité vitale. Cette zone est spécialement conçue pour permettre aux abeilles d'entrer et de sortir librement. À     
+  l'intérieur, la reine dispose de cellules créées par les abeilles ouvrières pour pondre ses œufs. Cette partie est cruciale pour la croissance et le développement de la colonie, car elle constitue le cœur de 
+  la ruche où se déroulent les cycles de vie des abeilles.
+
+  ###2. Le Cadre de Récolte
+
+  La deuxième section est un cadre additionnel que l'on peut ajouter à la structure principale. Ce cadre est destiné à accueillir des cadres supplémentaires que les abeilles rempliront de miel. Grâce à une 
+  grille spéciale, la reine ne peut pas accéder à cette section pour y pondre, ce qui permet de maintenir cette zone exclusivement dédiée à la production de miel. Cela facilite grandement la récolte du miel sans 
+  perturber la colonie ou compromettre les œufs de la reine.
+
+
+  ⚠️ Chaque colonie d'abeilles étant unique, il est possible d'ajouter plusieurs cadres de récolte si la colonie se développe. Cette modularité permet d'adapter la ruche à la taille et aux besoins de chaque 
+  colonie, assurant ainsi une gestion optimale et flexible de l'espace de production de miel.
+
+  ###3. Le Couvercle de Protection
+
+  Pour compléter la structure, nous avons conçu un couvercle robuste permettant de fermer la ruche efficacement et de la protéger des prédateurs. Ce couvercle est une composante essentielle pour assurer la 
+  sécurité de la colonie, en offrant une barrière contre les intempéries et les attaques potentielles.
+
+  ###Sécurité Contre les Frelons Asiatiques
+
+  Pour répondre à la menace des frelons asiatiques, nous avons également développé une sorte de muselière à placer à l'entrée de la ruche. Cet accessoire innovant est spécialement conçu pour empêcher les frelons 
+  d'accéder à l'intérieur de la ruche tout en permettant aux abeilles de continuer à entrer et sortir librement. Cette protection supplémentaire est cruciale pour la préservation des colonies face à ce prédateur 
+  agressif.
+
+  
 </details>

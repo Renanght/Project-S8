@@ -118,8 +118,8 @@ ionic serve
   grille spéciale, la reine ne peut pas accéder à cette section pour y pondre, ce qui permet de maintenir cette zone exclusivement dédiée à la production de miel. Cela facilite grandement la récolte du miel sans 
   perturber la colonie ou compromettre les œufs de la reine.  
 
-  <div class="sketchfab-embed-wrapper"> <iframe title="Milieu" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/45327368f9b9472a897b7c188a7551a3/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/milieu-45327368f9b9472a897b7c188a7551a3?utm_medium=embed&utm_campaign=share-popup&utm_content=45327368f9b9472a897b7c188a7551a3" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Milieu </a> by <a href="https://sketchfab.com/Renanght?utm_medium=embed&utm_campaign=share-popup&utm_content=45327368f9b9472a897b7c188a7551a3" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Renanght </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=45327368f9b9472a897b7c188a7551a3" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
-
+  <iframe title="Milieu" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/45327368f9b9472a897b7c188a7551a3/embed"> </iframe>
+  
   ⚠️ Chaque colonie d'abeilles étant unique, il est possible d'ajouter plusieurs cadres de récolte si la colonie se développe. Cette modularité permet d'adapter la ruche à la taille et aux besoins de chaque 
   colonie, assurant ainsi une gestion optimale et flexible de l'espace de production de miel.  
 

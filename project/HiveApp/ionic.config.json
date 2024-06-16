@@ -1,0 +1,7 @@
+{
+  "name": "Hiveapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

@@ -102,9 +102,22 @@ Pour concevoir une ruche connectée, nous avons soigneusement sélectionné troi
 
 Le capteur de poids HX711 est un choix crucial pour mesurer les variations de poids de la ruche. Il est doté d'un amplificateur de haute précision à 24 bits, ce qui permet des mesures extrêmement sensibles et précises. Cette caractéristique est essentielle pour détecter les changements subtils de poids liés à la récolte de miel ou à la croissance de la population d'abeilles. De plus, le HX711 est largement compatible avec divers microcontrôleurs, y compris l'ESP32, facilitant ainsi son intégration dans notre système. Son coût abordable et sa large documentation en font également un choix pratique et économique pour notre projet.
 
+<p align="center">
+  <img src="./img/HX711.jpg" alt="Capteurs utilisés dans la ruche connectée" width="500px">
+</p>
+
+
 Pour mesurer la température et l'humidité à l'intérieur de la ruche, nous avons opté pour le capteur DHT11. Ce capteur est largement reconnu pour sa fiabilité et sa précision suffisante pour notre application. Bien que d'autres capteurs puissent offrir une précision supérieure, le DHT11 offre un excellent rapport qualité-prix pour des mesures au degré près et avec une précision d'humidité raisonnable. Sa faible consommation d'énergie est un atout majeur, particulièrement important dans un environnement où la durabilité de la batterie est cruciale. De plus, son interface numérique simple facilite la lecture des données, rendant son utilisation aisée et efficace.
 
+<p align="center">
+  <img src="./img/DHT11.png" alt="Capteurs utilisés dans la ruche connectée" width="500px">
+</p>
+
 Enfin, nous avons choisi l'ESP32 comme microcontrôleur central de notre ruche connectée en raison de ses capacités Wi-Fi intégrées et de sa puissance de traitement élevée. L'ESP32 permet la transmission des données collectées par les capteurs vers un serveur ou une application mobile en temps réel, offrant ainsi une surveillance continue et à distance de la ruche. Sa polyvalence est un autre avantage notable : en plus de ses fonctionnalités Wi-Fi, l'ESP32 dispose de nombreuses entrées/sorties polyvalentes, ce qui permet d'ajouter facilement d'autres capteurs ou dispositifs à l'avenir. L'ESP32 est également supporté par un vaste écosystème de développement, incluant l'IDE Arduino, ce qui rend le développement et le déploiement de notre système encore plus accessibles.
+
+<p align="center">
+  <img src="./img/esp32.jpg" alt="Capteurs utilisés dans la ruche connectée" width="500px">
+</p>
 
 En résumé, le choix des composants HX711, DHT11, et ESP32 pour notre ruche connectée est motivé par leur précision, leur facilité d'intégration, leur coût abordable et leurs fonctionnalités adaptées. Ces composants nous permettent de créer un système de surveillance robuste et efficace, assurant ainsi une gestion optimale de la ruche et contribuant à la santé et au bien-être des abeilles.
 
@@ -116,11 +129,13 @@ Notre maquette de ruche est une réalisation combinant la découpe laser et l'im
 
 La première section est la partie essentielle de la ruche, où se déroule la majorité de l'activité vitale. Cette zone est spécialement conçue pour permettre aux abeilles d'entrer et de sortir librement. À l'intérieur, la reine dispose de cellules créées par les abeilles ouvrières pour pondre ses œufs. Cette partie est cruciale pour la croissance et le développement de la colonie, car elle constitue le cœur de la ruche où se déroulent les cycles de vie des abeilles.
 
+Cliquez[Ici](https://nodejs.org/en) pour voir une vision 3D de la section
+
 ### 2. Le Cadre de Récolte
 
 La deuxième section est un cadre additionnel que l'on peut ajouter à la structure principale. Ce cadre est destiné à accueillir des cadres supplémentaires que les abeilles rempliront de miel. Grâce à une grille spéciale, la reine ne peut pas accéder à cette section pour y pondre, ce qui permet de maintenir cette zone exclusivement dédiée à la production de miel. Cela facilite grandement la récolte du miel sans perturber la colonie ou compromettre les œufs de la reine.
 
-<iframe src="https://skfb.ly/oVwTL" width="200px" height="200px"></iframe>
+Cliquez[Ici](https://skfb.ly/oVwTL) pour voir une vision 3D du cadre de recolte
 
 ⚠️ Chaque colonie d'abeilles étant unique, il est possible d'ajouter plusieurs cadres de récolte si la colonie se développe. Cette modularité permet d'adapter la ruche à la taille et aux besoins de chaque colonie, assurant ainsi une gestion optimale et flexible de l'espace de production de miel.
 
@@ -128,6 +143,10 @@ La deuxième section est un cadre additionnel que l'on peut ajouter à la struct
 
 Pour compléter la structure, nous avons conçu un couvercle robuste permettant de fermer la ruche efficacement et de la protéger des prédateurs. Ce couvercle est une composante essentielle pour assurer la sécurité de la colonie, en offrant une barrière contre les intempéries et les attaques potentielles.
 
+Cliquez[Ici](https://skfb.ly/oVwTL) pour voir une vision 3D du couvercle de protection
+
 ### Sécurité Contre les Frelons Asiatiques
 
 Pour répondre à la menace des frelons asiatiques, nous avons également développé une sorte de muselière à placer à l'entrée de la ruche. Cet accessoire innovant est spécialement conçu pour empêcher les frelons d'accéder à l'intérieur de la ruche tout en permettant aux abeilles de continuer à entrer et sortir librement. Cette protection supplémentaire est cruciale pour la préservation des colonies face à ce prédateur agressif.
+
+Cliquez[Ici](https://skfb.ly/oVwTL) pour voir une vision 3D de la protection anti frelon

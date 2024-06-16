@@ -131,10 +131,6 @@ En résumé, le choix des composants HX711, DHT11, et ESP32 pour notre ruche con
 
 Notre maquette de ruche est une réalisation combinant la découpe laser et l'impression 3D pour créer une structure fonctionnelle et esthétique. Cette ruche est composée de trois parties distinctes, chacune conçue pour optimiser la gestion et la protection de la colonie d'abeilles.
 
-<p align="center">
-  <img src="./img/maquette.jpg" alt="Capteurs utilisés dans la ruche connectée" width="500px">
-</p>
-
 ### 1. La Partie Vitale de la Ruche
 
 La première section est la partie essentielle de la ruche, où se déroule la majorité de l'activité vitale. Cette zone est spécialement conçue pour permettre aux abeilles d'entrer et de sortir librement. À l'intérieur, la reine dispose de cellules créées par les abeilles ouvrières pour pondre ses œufs. Cette partie est cruciale pour la croissance et le développement de la colonie, car elle constitue le cœur de la ruche où se déroulent les cycles de vie des abeilles.

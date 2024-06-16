@@ -1,6 +1,38 @@
 # Created by https://www.toptal.com/developers/gitignore/api/c++,kicad,jekyll,freecad,platformio,c,python,java,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=c++,kicad,jekyll,freecad,platformio,c,python,java,node
 
+
+*~
+*.sw[mnpcod]
+.tmp
+*.tmp
+*.tmp.*
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+UserInterfaceState.xcuserstate
+$RECYCLE.BIN/
+
+*.log
+log.txt
+npm-debug.log*
+
+/.idea
+/.ionic
+/.sass-cache
+/.sourcemaps
+/.versions
+/.vscode/*
+!/.vscode/extensions.json
+/coverage
+/dist
+/node_modules
+/platforms
+/plugins
+/www
+
+
 ### Heavy files ###
 *.exe
 *.so 

@@ -98,7 +98,17 @@ ionic serve
 
 <details>
   <summary>Capteurs</summary>
-  This is the content that will be hidden initially.
+  ### Explication du Choix des Composants pour une Ruche Connectée
+
+  Pour concevoir une ruche connectée, nous avons soigneusement sélectionné trois composants clés : le capteur de poids HX711, le capteur de température et d'humidité DHT11, et le module Wi-Fi intégré d'un ESP32.   Chaque composant a été choisi en fonction de critères précis pour garantir une surveillance efficace et en temps réel de la ruche.
+
+  Le capteur de poids HX711 est un choix crucial pour mesurer les variations de poids de la ruche. Il est doté d'un amplificateur de haute précision à 24 bits, ce qui permet des mesures extrêmement sensibles et   précises. Cette caractéristique est essentielle pour détecter les changements subtils de poids liés à la récolte de miel ou à la croissance de la population d'abeilles. De plus, le HX711 est largement   compatible avec divers microcontrôleurs, y compris l'ESP32, facilitant ainsi son intégration dans notre système. Son coût abordable et sa large documentation en font également un choix pratique et économique pour notre projet.
+
+Pour mesurer la température et l'humidité à l'intérieur de la ruche, nous avons opté pour le capteur DHT11. Ce capteur est largement reconnu pour sa fiabilité et sa précision suffisante pour notre application. Bien que d'autres capteurs puissent offrir une précision supérieure, le DHT11 offre un excellent rapport qualité-prix pour des mesures au degré près et avec une précision d'humidité raisonnable. Sa faible consommation d'énergie est un atout majeur, particulièrement important dans un environnement où la durabilité de la batterie est cruciale. De plus, son interface numérique simple facilite la lecture des données, rendant son utilisation aisée et efficace.
+
+Enfin, nous avons choisi l'ESP32 comme microcontrôleur central de notre ruche connectée en raison de ses capacités Wi-Fi intégrées et de sa puissance de traitement élevée. L'ESP32 permet la transmission des données collectées par les capteurs vers un serveur ou une application mobile en temps réel, offrant ainsi une surveillance continue et à distance de la ruche. Sa polyvalence est un autre avantage notable : en plus de ses fonctionnalités Wi-Fi, l'ESP32 dispose de nombreuses entrées/sorties polyvalentes, ce qui permet d'ajouter facilement d'autres capteurs ou dispositifs à l'avenir. L'ESP32 est également supporté par un vaste écosystème de développement, incluant l'IDE Arduino, ce qui rend le développement et le déploiement de notre système encore plus accessibles.
+
+En résumé, le choix des composants HX711, DHT11, et ESP32 pour notre ruche connectée est motivé par leur précision, leur facilité d'intégration, leur coût abordable et leurs fonctionnalités adaptées. Ces composants nous permettent de créer un système de surveillance robuste et efficace, assurant ainsi une gestion optimale de la ruche et contribuant à la santé et au bien-être des abeilles.
 </details>
 
 <details>

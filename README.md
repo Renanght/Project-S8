@@ -94,11 +94,17 @@ ionic serve
 
 ## FIWARE
 
-(Schéma de la configuration FIWARE)
+<p align="center">
+  <img src="./img/schema.png" alt="Capteurs utilisés dans la ruche connectée" width="500px">
+</p>  
 
 ## Capteurs
 
 Pour concevoir une ruche connectée, nous avons soigneusement sélectionné trois composants clés : le capteur de poids HX711, le capteur de température et d'humidité DHT11, et le module Wi-Fi intégré d'un ESP32. Chaque composant a été choisi en fonction de critères précis pour garantir une surveillance efficace et en temps réel de la ruche.
+
+<p align="center">
+  <img src="./img/maquette.jpg" alt="Capteurs utilisés dans la ruche connectée" width="500px">
+</p>
 
 Le capteur de poids HX711 est un choix crucial pour mesurer les variations de poids de la ruche. Il est doté d'un amplificateur de haute précision à 24 bits, ce qui permet des mesures extrêmement sensibles et précises. Cette caractéristique est essentielle pour détecter les changements subtils de poids liés à la récolte de miel ou à la croissance de la population d'abeilles. De plus, le HX711 est largement compatible avec divers microcontrôleurs, y compris l'ESP32, facilitant ainsi son intégration dans notre système. Son coût abordable et sa large documentation en font également un choix pratique et économique pour notre projet.
 
@@ -125,17 +131,21 @@ En résumé, le choix des composants HX711, DHT11, et ESP32 pour notre ruche con
 
 Notre maquette de ruche est une réalisation combinant la découpe laser et l'impression 3D pour créer une structure fonctionnelle et esthétique. Cette ruche est composée de trois parties distinctes, chacune conçue pour optimiser la gestion et la protection de la colonie d'abeilles.
 
+<p align="center">
+  <img src="./img/maquette.jpg" alt="Capteurs utilisés dans la ruche connectée" width="500px">
+</p>
+
 ### 1. La Partie Vitale de la Ruche
 
 La première section est la partie essentielle de la ruche, où se déroule la majorité de l'activité vitale. Cette zone est spécialement conçue pour permettre aux abeilles d'entrer et de sortir librement. À l'intérieur, la reine dispose de cellules créées par les abeilles ouvrières pour pondre ses œufs. Cette partie est cruciale pour la croissance et le développement de la colonie, car elle constitue le cœur de la ruche où se déroulent les cycles de vie des abeilles.
 
-Cliquez[Ici](https://nodejs.org/en) pour voir une vision 3D de la section
+Cliquez [Ici](https://skfb.ly/oWGoI) pour voir une vision 3D de la base indispensable à la ruche
 
 ### 2. Le Cadre de Récolte
 
 La deuxième section est un cadre additionnel que l'on peut ajouter à la structure principale. Ce cadre est destiné à accueillir des cadres supplémentaires que les abeilles rempliront de miel. Grâce à une grille spéciale, la reine ne peut pas accéder à cette section pour y pondre, ce qui permet de maintenir cette zone exclusivement dédiée à la production de miel. Cela facilite grandement la récolte du miel sans perturber la colonie ou compromettre les œufs de la reine.
 
-Cliquez[Ici](https://skfb.ly/oVwTL) pour voir une vision 3D du cadre de recolte
+Cliquez [Ici](https://skfb.ly/oVwTL) pour voir une vision 3D du cadre de recolte
 
 ⚠️ Chaque colonie d'abeilles étant unique, il est possible d'ajouter plusieurs cadres de récolte si la colonie se développe. Cette modularité permet d'adapter la ruche à la taille et aux besoins de chaque colonie, assurant ainsi une gestion optimale et flexible de l'espace de production de miel.
 
@@ -143,10 +153,10 @@ Cliquez[Ici](https://skfb.ly/oVwTL) pour voir une vision 3D du cadre de recolte
 
 Pour compléter la structure, nous avons conçu un couvercle robuste permettant de fermer la ruche efficacement et de la protéger des prédateurs. Ce couvercle est une composante essentielle pour assurer la sécurité de la colonie, en offrant une barrière contre les intempéries et les attaques potentielles.
 
-Cliquez[Ici](https://skfb.ly/oVwTL) pour voir une vision 3D du couvercle de protection
+Cliquez [Ici](https://skfb.ly/oWGoD) pour voir une vision 3D du couvercle de protection
 
 ### Sécurité Contre les Frelons Asiatiques
 
 Pour répondre à la menace des frelons asiatiques, nous avons également développé une sorte de muselière à placer à l'entrée de la ruche. Cet accessoire innovant est spécialement conçu pour empêcher les frelons d'accéder à l'intérieur de la ruche tout en permettant aux abeilles de continuer à entrer et sortir librement. Cette protection supplémentaire est cruciale pour la préservation des colonies face à ce prédateur agressif.
 
-Cliquez[Ici](https://skfb.ly/oVwTL) pour voir une vision 3D de la protection anti frelon
+Cliquez [Ici](https://skfb.ly/oWGoQ) pour voir une vision 3D de la protection anti frelon

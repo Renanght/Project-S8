@@ -98,7 +98,7 @@ ionic serve
 
 <details>
   <summary>Capteurs</summary>
-  ### Explication du Choix des Composants pour une Ruche Connectée
+  ### Explication du Choix des Composants pour une Ruche Connectée  
 
   Pour concevoir une ruche connectée, nous avons soigneusement sélectionné trois composants clés : le capteur de poids HX711, le capteur de température et d'humidité DHT11, et le module Wi-Fi intégré d'un ESP32.   Chaque composant a été choisi en fonction de critères précis pour garantir une surveillance efficace et en temps réel de la ruche.
 
